@@ -1,0 +1,7 @@
+C:\Users\pundyly\source\repos\TheBuilder\TheBuilder\obj\Debug\TheBuilder.csproj.AssemblyReference.cache
+C:\Users\pundyly\source\repos\TheBuilder\TheBuilder\obj\Debug\TheBuilder.csproj.CoreCompileInputs.cache
+C:\Users\pundyly\source\repos\TheBuilder\TheBuilder\bin\Debug\TheBuilder.exe.config
+C:\Users\pundyly\source\repos\TheBuilder\TheBuilder\bin\Debug\TheBuilder.exe
+C:\Users\pundyly\source\repos\TheBuilder\TheBuilder\bin\Debug\TheBuilder.pdb
+C:\Users\pundyly\source\repos\TheBuilder\TheBuilder\obj\Debug\TheBuilder.exe
+C:\Users\pundyly\source\repos\TheBuilder\TheBuilder\obj\Debug\TheBuilder.pdb
